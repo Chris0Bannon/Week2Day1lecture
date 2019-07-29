@@ -1,0 +1,17 @@
+HEYYY
+
+whats a getter setter?  it goes and gets something from where you point,
+or its sets something.
+
+.data() is a getter setter that we use for magic behind the scene.
+
+dain said we are going to turn some shit into objects eventually
+wow i hope so.  objects are the future.
+
+weve got attributts
+class id type etc
+data - is a fun one
+data - taco = "yes"
+there is data here, its type is taco, its value is "yes"
+
+.data can set data dynamically on elements
